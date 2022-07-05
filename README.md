@@ -5,8 +5,8 @@
 <div>
 </br>
   <ul>
-    <li>🔭 I'm currently studying java!</li>
-    <li>📫 I'm attending the first semester of graduation in Computer Science at PUCRS college.</li>
+    <li>🔭 I'm currently studying Java and Python!</li>
+    <li>📫 I'm attending the first semester of my undergraduation course in Computer Science at PUCRS University, and second semester of Robotics at UFRGS University.</li>
     <li>😄 Pronouns: She/Her</li>
   </ul>
 </div>
