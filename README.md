@@ -1,5 +1,5 @@
 <div>
-  <p align="center"><i>oie sou a bruna!<i/></p>
+  <p align="center"><i>Hello world, i'm Bruna!<i/></p>
 </div>
 
 <div>
